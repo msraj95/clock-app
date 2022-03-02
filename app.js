@@ -1,4 +1,3 @@
-
 setInterval(showTime, 1000)
 
 function showTime() {
